@@ -1,0 +1,5 @@
+name: default 
+attributes:
+- name: cf_id
+- name: cf_arn 
+- name: cf_domain_name 
